@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/rbetina/starter_generators.git
+  revision: 53abc876892d78a754fe553881c3cba738dd9aca
+  branch: boothappdev
+  specs:
+    starter_generators (0.9.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -158,6 +165,7 @@ DEPENDENCIES
   sass-rails (~> 5.0.0.beta1)
   sdoc (~> 0.4.0)
   sqlite3
+  starter_generators!
   turbolinks
   tzinfo-data
   uglifier (>= 1.3.0)
